@@ -1,0 +1,24 @@
+{
+  "name": "gulp-js-base64",
+  "version": "0.1.0",
+  "description": "A GulpJS task to transform all resources found in JS into base64-encoded data URI strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samcus/gulp-js-base64.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "base64",
+    "js"
+  ],
+  "author": "Samuel A. Custer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samcus/gulp-js-base64/issues"
+  },
+  "homepage": "https://github.com/samcus/gulp-js-base64#readme"
+}
